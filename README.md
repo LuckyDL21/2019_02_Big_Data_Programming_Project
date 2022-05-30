@@ -13,7 +13,7 @@ selenium,BeautifulSoup (for crawling)
 
 threading (for thread time span 1 hour)
 
-pandas,nummpy (for data analysis)
+pandas,numpy (for data analysis)
 
 folium,json(for getting the latitude and longitude)
 
