@@ -65,7 +65,4 @@ tkinter(for project UI)
 python main.py
 ```
 
-## Run Example
-
-<img width="760" alt="real_dust_project" src="https://user-images.githubusercontent.com/58621656/170961142-5916e665-64db-4658-a52e-1f241deac0d4.png">
 
