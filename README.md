@@ -51,7 +51,7 @@ tkinter(for project UI)
 
 ├── korea\ map.gif
 
-├── main.ipynb
+├── main.py
 
 ├── plus\ ID.csv
 
