@@ -63,7 +63,6 @@ tkinter(for project UI)
 
 ```
 python main.py
-
 ```
 
 ## Example
