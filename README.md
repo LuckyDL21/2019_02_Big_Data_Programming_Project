@@ -59,7 +59,12 @@ tkinter(for project UI)
 
 └── test.csv
 
+## How to run
 
+```
+python main.py
+
+```
 
 ## Example
 
